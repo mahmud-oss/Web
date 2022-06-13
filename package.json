@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Test for Node and Git",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmud-oss/Web.git"
+  },
+  "author": "Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmud-oss/Web/issues"
+  },
+  "homepage": "https://github.com/mahmud-oss/Web#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
